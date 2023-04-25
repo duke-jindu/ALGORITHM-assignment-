@@ -1,0 +1,12 @@
+   Write an algorithm to reverse a string
+
+ START
+    Step 1. Input string .(string Numbers = "college";)
+    Step 2. calculate the length of the string.
+    step 3. initialize an empty string Reversed = " ";
+    Step 4. initialize i = length-1;
+    Step 5. repreat until  i >= 0
+    Step 6. Reversed = Reversed + char in i 
+    Step 7. i = i - 1
+    Step 8. Display String Reversed.
+ STOP

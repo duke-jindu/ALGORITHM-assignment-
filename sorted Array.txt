@@ -1,0 +1,14 @@
+   2. Write a selection sort algorithm 
+
+
+  START
+     step 1. declare an Array Unsorted = [5,3,2,1,4];
+     Step 2. initialize an Array Sorted = [];
+     step 2. set the minimum element in the unsorted array to the position [0] in the sorted Array
+     step 3. search for the minimum element in the unsorted Array
+     step 4. move the minimum element in the unsorted Array to the position [0] 
+             in the sorted Array and update the minimum position in a acending order
+     step 5. repeat steps 3 & 4 until the Array is sorted
+  STOP
+
+
